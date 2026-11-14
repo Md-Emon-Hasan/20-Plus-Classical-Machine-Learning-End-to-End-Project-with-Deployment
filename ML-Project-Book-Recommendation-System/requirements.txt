@@ -1,0 +1,8 @@
+scikit-learn
+flask
+numpy
+gunicorn
+pandas
+
+# local packages
+# -e .
